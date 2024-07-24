@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\bin\Debug\net8.0-windows\DateFormXml.exe
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\bin\Debug\net8.0-windows\DateFormXml.deps.json
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\bin\Debug\net8.0-windows\DateFormXml.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\bin\Debug\net8.0-windows\DateFormXml.dll
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\bin\Debug\net8.0-windows\DateFormXml.pdb
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.Form1.resources
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.dll
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\refint\DateFormXml.dll
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.pdb
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\DateFormXml.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\תכנות\My codes\Webiks\C#\DateFormXml\DateFormXml\obj\Debug\net8.0-windows\ref\DateFormXml.dll

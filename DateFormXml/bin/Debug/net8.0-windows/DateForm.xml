@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>7</DayMonth>
+    <Month>תמוז</Month>
+    <Year>תשפ"ח</Year>
+    <Result>בחמישי בשבת שבעה ימים לירח  תמוז בשנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>7</DayMonth>
+    <Month>אדר א</Month>
+    <Year>תשפ"ט</Year>
+    <Result>בחמישי בשבת שבעה ימים לירח  אדר א בשנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>אלול</Month>
+    <Year>תשפ"ה</Year>
+    <Result>בשלישי בשבת ארבעה ימים לירח  אלול בשנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
+  </Query>
+</Queries>
